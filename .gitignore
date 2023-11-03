@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directory
+dependencies/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Ignore config files if you're using a tool like dotenv to manage environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
